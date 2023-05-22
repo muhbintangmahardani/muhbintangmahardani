@@ -5,7 +5,7 @@
 <h3 align="center">A passionate IT Support from Indonesia.</h3>
 
 <a href="https://github.com/Daniii1245" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="342" src="https://www.wflair.com/wp-content/uploads/2022/08/IT-support-wflair.gif">
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </a>
 
 ## About me:
