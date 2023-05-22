@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=muhbintangmahardani&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋 I'm Muhammad Bintang Mahardani.</h1>
 
 <h3 align="center">A passionate IT Support from Indonesia.</h3>
@@ -51,8 +53,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=muhbintangmahardani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
