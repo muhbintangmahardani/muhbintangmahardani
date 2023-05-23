@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning programming languange **Python.**
 - 👨‍💻 I'm currently working as a **Network Engineer.**
 - 📫 How to reach me: **bintang.mahardani28@gmail.com**
-- ⚡  Fun fact: **I'm Astrophilia (Obsession with stars, and outer space.)**
+- ⚡  Fun fact: **I'm Astrophilia (Obsession with Sky.)**
   
 ## 🌐 Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bintang1245/)
