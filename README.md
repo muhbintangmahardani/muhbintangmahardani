@@ -1,5 +1,5 @@
 <a href="https://www.github.com/muhbintangmahardani" target="_blank" rel="noreferrer">
-  <img align="right" alt="GitHub" width="105" src="https://visitcount.itsvg.in/api?id=muhbintangmahardani&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in">
+  <img align="right" alt="GitHub" width="105" src="https://komarev.com/ghpvc/?username=muhbintangmahardani&style=flat-square&color=lightgrey">
 </a>
   
 <h1 align="center">Hi 👋 I'm Muhammad Bintang Mahardani.</h1>
