@@ -12,7 +12,7 @@
 ## About me :
 - 🌍 I'm based in **West Jakarta - Indonesia.**
 - 🔭 I’m a student at **Bina Sarana Informatika University of Jakarta.**
-- 🌱 I’m currently learning programming languange **Python.**
+- 🌱 I’m currently learning programming languange **Python & Java.**
 - 👨‍💻 I'm currently working as a **Network Engineer.**
 - 📫 How to reach me: **bintang.mahardani28@gmail.com**
 - ⚡  Fun fact: **I'm Astrophilia (Obsession with Sky.)**
